@@ -7,10 +7,9 @@ layout: splash
 title: "Mary | Cyber Assurance Specialist"
 permalink: /
 header:
-  overlay_color: "#00ffff"   # Cyan base
-  overlay_filter: "0.4"      # Transparency (0 = none, 1 = full overlay)
+  overlay_color: "#000"   # subtle dark tint
+  overlay_filter: "0.3"   # transparency
   overlay_image: /assets/images/cyber-bg.jpg
-  overlay_gradient: "linear-gradient(135deg, #00ffff, #8a2be2)" # Cyan → Violet blend
   actions:
     - label: "Explore My Projects"
       url: "/projects/"
@@ -18,6 +17,7 @@ header:
       url: "/blog/"
 author_profile: true
 ---
+
 
 # 🔐 Hi, I'm Mary
 
