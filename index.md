@@ -4,9 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: true
-
----
-layout: splash
 title: "Mary | Cyber Assurance Specialist"
 permalink: /
 header:
