@@ -6,7 +6,7 @@ layout: splash
 title: "Mary | Cyber Assurance Specialist"
 permalink: /
 header:
-  overlay_color: "#000"
+  overlay_color: "#00ffff"
   overlay_filter: "0.3"
   overlay_image: /assets/images/cyber-bg.jpg
   actions:
