@@ -3,7 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
-author_profile: true
+---
+layout: splash
 title: "Mary | Cyber Assurance Specialist"
 permalink: /
 header:
@@ -16,6 +17,8 @@ header:
     - label: "Read My Insights"
       url: "/blog/"
 author_profile: true
+---
+
 ---
 
 # 🔐 Hi, I'm Mary
