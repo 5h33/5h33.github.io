@@ -6,8 +6,8 @@ layout: splash
 title: "Mary | Cyber Assurance Specialist"
 permalink: /
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_color: "#000"   # subtle dark tint
+  overlay_filter: "0.3"   # transparency
   overlay_image: /assets/images/cyber-bg.jpg
   actions:
     - label: "Explore My Projects"
@@ -16,6 +16,7 @@ header:
       url: "/blog/"
 author_profile: true
 ---
+
 
 # 🔐 Hi, I'm Mary
 
